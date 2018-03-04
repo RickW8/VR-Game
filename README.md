@@ -1,1 +1,2 @@
 # VR Game
+This is a VR game designed for Google Cardboard. The setting of this game is located in a canyon. The objective of this game is to find all the objects that are randomly generated. To collect these objects, look at the object with the pointer(dot) at the center of the screen. Find all five objects, and you win the game. Currently there is only one level, but there may be more levels to come.
